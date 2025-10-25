@@ -1,0 +1,5 @@
+{
+  "name": "Smart OMR Generator and Reader",
+  "description": "A web application to generate, print, and scan OMR (Optical Mark Recognition) answer sheets. It allows for creating custom sheets, downloading them, and later uploading scanned images to automatically grade them against an answer key.",
+  "requestFramePermissions": []
+}
